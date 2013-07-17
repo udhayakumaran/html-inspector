@@ -1,0 +1,7 @@
+javascript: void((function (d) {
+    var s = d.createElement('script');
+    s.setAttribute('type', 'text/javascript');
+    s.setAttribute('charset', 'UTF-8');
+    s.setAttribute('src', 'Change Path Here?r=' + Math.random() * 99999999);
+    d.body.appendChild(s);
+})(document));
